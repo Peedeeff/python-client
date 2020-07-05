@@ -1,2 +1,2 @@
-# python-client
+# Py Peedeeff
 python client for peedeeff
